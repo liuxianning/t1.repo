@@ -2,6 +2,6 @@
 ## Test
 ### i am superman
 
-*hello world
-*hello r
-*hello github
+* hello world
+* hello r
+* hello github
